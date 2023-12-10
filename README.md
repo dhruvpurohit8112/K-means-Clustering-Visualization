@@ -3,9 +3,9 @@
 
 This Project is for understanding the k-meanns clustering algorithm<br/>
 ## Languages 
-* html
-* css
-* javascript
+* HTML
+* CSS
+* Javascript
 
 Framework Bootstrap
 <br/>
